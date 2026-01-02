@@ -9,6 +9,12 @@ The objective is to support **data-driven decision-making** for healthcare provi
 
 ---
 
+Dashboard Overview
+<img width="970" height="699" alt="Screenshot 2025-12-28 154659" src="https://github.com/user-attachments/assets/1fe00105-0c59-4119-a23d-804159bb75e7" />
+
+---
+
+
 ## 🎯 Business Objectives
 
 * Analyze patient demographics and admission types
